@@ -1,1 +1,2 @@
 This is first line.
+This second line created in dev-branch to be merged then in master.
